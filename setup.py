@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='SeleniumBrowser',
     version='1.0',
-    packages=[''],
+    packages=['selenium-browser'],
     url='',
     license='MIT',
     author='leesatoh',
